@@ -1,0 +1,13 @@
+Hi, this is Yosef.
+
+
+1. In order to avoid latency, you must store the picture in JavaScript and update the photographs in the CSS (@keyframes slide animation) before making any changes to the slide images. Because JavaScript loads the image.
+
+2. To receive customer message, you need to establish a proper link or integration with a backend system for "Send Message" button located in the index.html page.
+
+3.I have linked the coffee page to export.tadessedestcoffee.com. If this link is changed, the updated link should be linked to the 'Our Coffee' button on the index page as well as on all export sections and export pages.
+
+4.If you want to change pictures try to use .webp format 
+
+
+
